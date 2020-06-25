@@ -1,5 +1,5 @@
 # il existe 2 type de boucle en python 
-# for ()
+# for... in ... : pour chaque element dans une suite, fait ...
 # while () "tant que" la condition est vrai, fais...
 
 i = 1 # i pour increment par convention 
